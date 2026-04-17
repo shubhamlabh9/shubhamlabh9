@@ -1,13 +1,19 @@
-# 💫 About Me:
-I’m a final-year B.Tech student in Data Science who works best when solving practical problems rather than chasing theory for the sake of it. Most of my work revolves around cleaning messy real-world data, building small but functional ML models, and automating repetitive tasks. I’ve handled datasets up to 50,000 rows using Excel and Python, and I’ve already built analysis workflows for UCC complaints that involve categorization, sentiment checks, and rule-based validation.
+# #💫 About Me:
+I’m a final-year B.Tech (Data Science) student focused on building practical, real-world solutions using Python and web technologies.
 
-I’m currently part of a team developing a costume-clearance automation system. I also experiment with simple backend systems using PHP, Google Apps Script, and Sheets when budget or hosting limitations force me to be resourceful.
+I specialize in:
 
-I’m not a “top coder,” but I learn fast and I focus hard on making things that actually run instead of pretending to build “AI.” I’m comfortable with HTML/CSS/JS for frontend work and have just enough Python and ML understanding to build workable models for structured data.
+* Data handling and analysis using Python (pandas, Excel)
+* Building small but functional systems that solve real problems
+* Automating repetitive tasks and working with structured datasets
 
-Outside data science, I’ve led and hosted multiple college events, worked on various websites (blogs, e-commerce prototypes, student tools), and handled content focused on culture, festivals, and technical topics. I prefer clarity over jargon, and I like breaking complex ideas into simple steps.
+I’ve worked on datasets with 50,000+ rows and built projects like:
 
-Right now, I’m building small but real-world-useful tools and looking for opportunities where practical execution matters more than fancy terminology.
+* File Management System (offline desktop tool)
+* TRAI Complaint Analyzer (data classification & validation)
+
+Currently, I’m focused on improving my backend development and data-driven application skills.
+
 
 
 ## 🌐 Socials:
