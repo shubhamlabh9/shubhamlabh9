@@ -1,4 +1,4 @@
-# #💫 About Me:
+# 💫 About Me:
 I’m a final-year B.Tech (Data Science) student focused on building practical, real-world solutions using Python and web technologies.
 
 I specialize in:
